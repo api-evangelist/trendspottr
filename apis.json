@@ -1,0 +1,75 @@
+{
+    "name": "trendspottr",
+    "description": "TrendSpottr: Predictive trend intelligence for brands, marketers & PR pros. Discover emerging trends, viral content & key influencers for any topic",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1184-trendspottr.jpg",
+    "tags": [
+        "have api",
+        "rewards",
+        "social",
+        "tracking",
+        "trends"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/trendspottr\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "trendspottr",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1184-trendspottr.jpg",
+            "humanURL": "http:\/\/trendspottr.com\/api\/v1.1\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/trendspottr-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/trendspottr.tumblr.com"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/trendspottr.tumblr.com\/rss"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/trendspottr"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/trendspottr"
+        },
+        {
+            "type": "Email",
+            "url": "feedback@trendspottr.com"
+        },
+        {
+            "type": "Email",
+            "url": "sales@trendspottr.com"
+        },
+        {
+            "type": "Email",
+            "url": "info@trendspottr.com"
+        },
+        {
+            "type": "Email",
+            "url": "api@trendspottr.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/#!\/trendspottr"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/trendspottr.com\/api\/v1.1\/"
+        }
+    ]
+}
